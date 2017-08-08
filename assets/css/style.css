@@ -1,0 +1,18 @@
+#title {;
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 15px;
+  padding: 25px;
+}
+
+#schedule {
+  border-color: blue;
+}
+
+.panel-heading {
+  background-color: blue!important;
+  color: white!important;
+  font-weight: bold;
+}
